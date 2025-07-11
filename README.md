@@ -1,14 +1,6 @@
 
 # Collaborative Development of CSV Explorer Web App
 
-## Authors
-Group Members:
-
-- Fatemeh Elyasifar (25589351) 
-- Krishnan Unni Prasad (25225362) 
-- Prisa Senduangdeth (25402088) 
-
-## Description
 CSV Explorer is a Streamlit-based application built for data scientists, analysts, and anyone who needs a quick, interactive exploration tool for CSV datasets. This app allows users to upload a CSV file and access data insights through separate tabs for DataFrames, Numeric Series, Text Series, and Date Series. Each tab is designed to perform unique analyses on its respective data type, facilitating easy and efficient exploration of the data's characteristics.
 
 ### Features:
@@ -89,4 +81,9 @@ This project is divided into multiple subdirectories to handle different aspects
 
 - Python Software Foundation. (2023). Python Standard Library [Computer software]. Available from https://docs.python.org
 
+## Authors
+Group Members:
 
+- Fatemeh Elyasifar (25589351) 
+- Krishnan Unni Prasad (25225362) 
+- Prisa Senduangdeth (25402088) 
