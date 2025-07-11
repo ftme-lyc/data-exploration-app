@@ -13,8 +13,8 @@ CSV Explorer is a Streamlit-based application built for data scientists, analyst
 
 1. **Clone the Repository**: Download or clone this repository to your local machine.
    ```bash
-   git clone https://github.com/KrishUnni-Z/dsp_at3_group8.git
-   cd dsp_at3_group8
+   git clone [https://github.com/KrishUnni-Z/dsp_at3_group8.git](https://github.com/ftme-lyc/data-exploration-app.git)
+   cd data-exploration-app
    ```
    
 2. **Install Dependencies**: Install the required packages by running the following command:
